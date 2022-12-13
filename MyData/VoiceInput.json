@@ -1,0 +1,29 @@
+[
+  {
+    "voiceSearchQuery" : "play Jackie Onassis",
+    "catalogue" : "premium",
+    "country" : "US",
+    "locale" : "en",
+    "languageRequested" : "en",
+    "entityType" : "ALBUM",
+    "time" : "2022-01-21T00:08:31.701Z"
+  },
+  {
+    "voiceSearchQuery" : "play My Girls",
+    "catalogue" : "premium",
+    "country" : "US",
+    "locale" : "en",
+    "languageRequested" : "en",
+    "entityType" : "ALBUM",
+    "time" : "2022-01-21T00:08:31.701Z"
+  },
+  {
+    "voiceSearchQuery" : "stop playing music",
+    "catalogue" : "premium",
+    "country" : "US",
+    "locale" : "en",
+    "languageRequested" : "en",
+    "entityType" : "ALBUM",
+    "time" : "2022-01-21T00:08:31.701Z"
+  }
+]
